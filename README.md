@@ -2,8 +2,8 @@
 
 I'm a tech enthusiast currently diving deep into Android Development.  
 - :office: I'm an **[Undergraduate Student](https://cmrcet.ac.in/)**
--  🌱 Currently learning Android & Python
+-  🌱 Currently learning Android & Python & linnux.
 -  :computer: Connect with me on **[Telegram](https://t.me/JoseoPablo)**
--  👀 Fun fact I have no special talent
+-  👀 Fun fact I have no special talent.
 
 Happy coding! 🚀
